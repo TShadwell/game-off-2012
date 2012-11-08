@@ -1,5 +1,5 @@
 (function(){
-	var	canvas = c||document.GetElementById("c");
+	var	canvas = c||document.GetElementById("c"),
 		ctx = canvas.getContext("2d"),
 		d=document;
 	
